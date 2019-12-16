@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("View Did load")
+        
         // commit and push develop
         // add a comment
     }
